@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TogglePanel renders title and toggle button 1`] = `
+<div>
+  <div
+    data-testid="toggle-panel"
+  >
+    <h3>
+      My Panel
+    </h3>
+    <button>
+      Show
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter Component contains the counter box 1`] = `
+<div>
+  <div
+    data-testid="counter-box"
+  >
+    <h2>
+      Counter
+    </h2>
+    <p
+      data-testid="count"
+    >
+      0
+    </p>
+    <button>
+      Increment
+    </button>
+    <button>
+      Decrement
+    </button>
+    <input
+      placeholder="Focus me"
+    />
+  </div>
+</div>
+`;

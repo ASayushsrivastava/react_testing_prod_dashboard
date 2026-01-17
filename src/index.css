@@ -1,0 +1,24 @@
+:root {
+  --bg: #f9fafb;
+  --text: #111827;
+
+  --card-bg: #ffffff;
+  --card-text: #111827;
+
+  --input-bg: #ffffff;
+  --input-text: #111827;
+  --input-border: #d1d5db;
+}
+
+/* DARK MODE */
+.theme-dark {
+  --bg: #0f172a;
+  --text: #f1f5f9;
+
+  --card-bg: #1e293b;
+  --card-text: #f1f5f9;
+
+  --input-bg: #1e293b;
+  --input-text: #f1f5f9;
+  --input-border: #475569;
+}
